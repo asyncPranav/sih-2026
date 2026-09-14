@@ -27,7 +27,7 @@ Here is the version I would actually submit.
 | **Organization**         | **Ministry of Development of North Eastern Region (MDoNER)** |
 | **Theme**                | **Disaster Management**                                      |
 | **PS Category**          | **Software**                                                 |
-| **Team Name**            | **asyncPranav**                                              |
+| **Team Name**            | **xyz**                                              |
 
 ### Bottom tagline
 
