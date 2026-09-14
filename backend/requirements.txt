@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+geoalchemy2
+psycopg2-binary
+pydantic
+python-dotenv
+pandas
+scikit-learn
+xgboost
+geopandas
+shapely
+rasterio
